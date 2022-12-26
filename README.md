@@ -1,4 +1,4 @@
-# Customer segmentation using K-means clustering 
+# Customer segmentation using K-means clustering |USM project|
 
 * The aim of the project was to segment customers based on their demographic features, including age, marital status, sex, education, income, etc., to identify which consumers are similar to each other so that the business could target each segment of their customers with their relevant needs at the right time. Moreover, develop relevant strategies and make informed decisions.
 * As learning algorithms, K-means clustering is used with different cluster valus
